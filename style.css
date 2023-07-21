@@ -1,0 +1,15 @@
+#mysticker
+{
+    margin: 0% auto;
+    height: 90px;
+}
+ #ramesh
+{
+    width: 219px;
+    height: 39px;
+} 
+body
+{
+    background: url('accentureimage.jpg') no-repeat center  center fixed;
+    background-size: cover;
+}
